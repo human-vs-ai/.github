@@ -15,5 +15,7 @@
 * Ilias Papadimitriou
 
 # Repositories 📌
-* [app](https://github.com/human-vs-ai/app) (frontend)
-* [webservice](https://github.com/human-vs-ai/webservice) (backend)
+* ~[app](https://github.com/human-vs-ai/app) (frontend)~
+* ~[webservice](https://github.com/human-vs-ai/webservice) (backend)~
+> Instead of hosting our own system to let crowd workers perform a specific task, we use Toloka's task builder (simple `json`), so the above repositories are not of pivotal importance anymore. Instead, the data repository is a collection of sources, ranging from preprocessing to generating the task `json` files, to perform the project. Check it out below!
+* [data](https://github.com/human-vs-ai/data)
